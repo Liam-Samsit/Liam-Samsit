@@ -6,6 +6,10 @@ You can call me Liam—I'm a CS student interested in everything GameDev & Mobil
 - ⭐ I recently made a 2D side-scrolling platformer about a spider's birthday quest
   
 - ☕ I’m currently Learning Java and Flutter, bear with me 🙏
+  ![flutter-icon-1651x2048-ojswpayr](https://github.com/user-attachments/assets/2dd98816-c8ca-4301-8402-34b68b520f09)
+  ![java-icon-1511x2048-6ikx8301](https://github.com/user-attachments/assets/15aeba26-5bfc-44a0-8e78-3e18803e6013)
+
+
 <!--
 **Liam-Samsit/Liam-Samsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
