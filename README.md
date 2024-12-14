@@ -5,9 +5,16 @@ You can call me Liam—I'm a CS student interested in everything GameDev & Mobil
   
 - ⭐ I recently made a 2D side-scrolling platformer about a spider's birthday quest
   
+  ![spider_idle_strip_2](https://github.com/user-attachments/assets/09559641-c28d-42b1-8945-1ac2f4ce279c)
+
+
 - ☕ I’m currently Learning Java and Flutter, bear with me 🙏
-  ![flutter-icon-1651x2048-ojswpayr](https://github.com/user-attachments/assets/2dd98816-c8ca-4301-8402-34b68b520f09)
-  ![java-icon-1511x2048-6ikx8301](https://github.com/user-attachments/assets/15aeba26-5bfc-44a0-8e78-3e18803e6013)
+
+  ![flutter](https://github.com/user-attachments/assets/079cf69f-86a3-490f-8d87-f2a290e74195)
+  ![java](https://github.com/user-attachments/assets/b7edefbb-f3c5-46bc-b180-54d9efb4e59a)
+
+
+
 
 
 <!--
