@@ -1,5 +1,11 @@
-## Hi there 👋
+## Heya 👋
+You can call me Liam—I'm a CS student interested in everything GameDev & Mobile Apps related
 
+- 💻 I’m currently working in a team on a health diagnosis App, with ML-powered features
+  
+- ⭐ I recently made a 2D side-scrolling platformer about a spider's birthday quest
+  
+- ☕ I’m currently Learning Java and Flutter, bear with me 🙏
 <!--
 **Liam-Samsit/Liam-Samsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
