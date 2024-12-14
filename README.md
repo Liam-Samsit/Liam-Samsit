@@ -12,9 +12,9 @@ You can call me Liam—I'm a CS student interested in everything GameDev & Mobil
 
   ![flutter](https://github.com/user-attachments/assets/079cf69f-86a3-490f-8d87-f2a290e74195)
   ![java](https://github.com/user-attachments/assets/b7edefbb-f3c5-46bc-b180-54d9efb4e59a)
-
-
-
+  -
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liam-Samsit&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
