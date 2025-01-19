@@ -1,5 +1,5 @@
 ## Heya 👋
-You can call me Liam—I'm a CS student interested in everything GameDev & Mobile Apps related
+You can call me Sam. I'm a CS student interested in everything GameDev & Mobile Apps related
 
 - 💻 I’m currently working in a team on a health diagnosis App, with ML-powered features
   
