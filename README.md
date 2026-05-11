@@ -1,5 +1,7 @@
 ## Hey, I'm Sam  
-### I make games and apps, but I prefer calling them *experiences*
+### I make games and apps 
+`but also just about anything that can be an experience, music, art, stories...`
+
 
 <img src="https://img.icons8.com/ios-filled/50/ffffff/graduation-cap.png" width="18" alt="uni cap"/> CS Student  |  <img src="https://img.icons8.com/ios-filled/50/ffffff/monitor.png" width="18" alt="computer"/> Game & App Developer  |  <img src="https://img.icons8.com/ios-filled/50/ffffff/brain.png" width="18" alt="brain"/> Creative Creator | <img src="https://img.icons8.com/ios-filled/50/ffffff/paint-brush.png" width="18" alt="paint brush"/> i am THE Artist of ALL TIME
 
