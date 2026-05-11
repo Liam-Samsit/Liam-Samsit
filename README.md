@@ -57,4 +57,5 @@
 
 ---
 
-[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liam-Samsit&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Liam's GitHub stats](https://github-stats-extended.vercel.app/api?username=Liam-Samsit&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
