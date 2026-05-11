@@ -1,21 +1,22 @@
 ## Hey, I'm Sam  
 ### I make games and apps, but I prefer calling them *experiences*
 
-<img src="https://img.icons8.com/ios-filled/50/ffffff/graduation-cap.png" width="18" alt="uni cap"/> CS Student | <img src="https://img.icons8.com/ios-filled/50/ffffff/monitor.png" width="18" alt="computer"/> Game & App Developer | <img src="https://img.icons8.com/ios-filled/50/ffffff/brain.png" width="18" alt="brain"/> Psychology Enthusiast | <img src="https://img.icons8.com/ios-filled/50/ffffff/paint-brush.png" width="18" alt="paint brush"/> Visual Storyteller
+<img src="https://img.icons8.com/ios-filled/50/ffffff/graduation-cap.png" width="18" alt="uni cap"/> CS Student  |  <img src="https://img.icons8.com/ios-filled/50/ffffff/monitor.png" width="18" alt="computer"/> Game & App Developer  |  <img src="https://img.icons8.com/ios-filled/50/ffffff/brain.png" width="18" alt="brain"/> Creative Creator | <img src="https://img.icons8.com/ios-filled/50/ffffff/paint-brush.png" width="18" alt="paint brush"/> i am THE Artist of ALL TIME
 
 ---
 
 ### <img src="https://img.icons8.com/ios-filled/50/ffffff/settings.png" width="18" alt="work"/> What I’m Working On
-- A **3D platformer** in *Godot Engine*, exploring movement, camera control & level design
-- A **Flutter app** for media conversion *(MP4 ➜ MP3)*
-- A **FastAPI backend** for a student internship finder app
+- **Revisiting Blender**, currently making low-poly characters
+- **Exploring Unity** because i really missed game dev
+- making a **FastAPI backend** for a student internship finder app
   <img src="https://img.icons8.com/ios-filled/50/ffffff/robot-2.png" width="16" alt="ml"/> planning to integrate a **machine learning model** for smarter offer matching  
 
 ---
 
 ### <img src="https://img.icons8.com/ios-filled/50/ffffff/target.png" width="18" alt="focus"/> Currently Focusing On
-- **Flutter** - mobile development  
-- **Godot Engine (GDScript)** - 2D/3D game design
+- **C#** - since it's unity's thing
+- **Powershell** - automation and IT solutions
+- **Machine Learning** - for file generation
 - **FastAPI** - backend development
 
 ---
@@ -46,6 +47,9 @@
 ---
 
 ### <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="18" alt="github"/> Past Projects
+- Local tag addition and editing website
+- Desktop software installation automation (during my internship)
+- University Seat Tracker that checks a website periodically for open seats
 - A 2D side-scroller about a spider’s birthday quest  
   ![spider_idle_strip_2](https://github.com/user-attachments/assets/09559641-c28d-42b1-8945-1ac2f4ce279c)
 
